@@ -14,5 +14,5 @@ Most of this project is written in Python. Python scripts are used to construct 
  
 This project had three main components that can be found in different subdirectories within this repository:
 
-- model: the code of theoretical & computational model that is at the core of this project.
+- model: the python code and pseudocode of theoretical & computational model that is at the core of this project.
 - graphs: the graphs in the paper.
